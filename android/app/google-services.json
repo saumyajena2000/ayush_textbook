@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602077158717",
+    "project_id": "ayushtestbookassesment",
+    "storage_bucket": "ayushtestbookassesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602077158717:android:7fc7d9ec22952a6bf3f954",
+        "android_client_info": {
+          "package_name": "com.example.ayush_textbook_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQsBKmN8NEeK4uTgchcKpi5yH2Za_ewHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
